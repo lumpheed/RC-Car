@@ -1,0 +1,1 @@
+This readme has been created as part of the process of learning about Git and Github version control
